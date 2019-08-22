@@ -1,18 +1,18 @@
+<!-- markdownlint-disable MD013 -->
 # Typography
-* Creating a font palette
-* Visual hierarchy
-* Prioritize readability
-* Work with grids
 
-### Resources:
-* [Fonts.google.com](https://fonts.google.com/)
-* [Fontsinuse.com](https://fontsinuse.com/)
-* [Fontjoy.com](http://fontjoy.com/)
+- Creating a font palette
+- Visual hierarchy
+- Prioritize readability
+- Work with grids
 
-### Library:
+## Resources
 
-* Josef Müller-Brockmann - "Grid Systems in Graphic Design: A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers"
+- [Fonts.google.com](https://fonts.google.com/) [Fontsinuse.com](https://fontsinuse.com/)
+- [Fontjoy.com](http://fontjoy.com/)
 
-* Rob Carter - "Typographic Design"
+## Library
 
-* Kimberly Elam - "Grid Systems: Principles of Organizing Type"
+- Josef Müller-Brockmann - "Grid Systems in Graphic Design: A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers"
+- Rob Carter - "Typographic Design"
+- Kimberly Elam - "Grid Systems: Principles of Organizing Type"
