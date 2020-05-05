@@ -1,17 +1,27 @@
 <!-- markdownlint-disable MD013 -->
 # Tools
 
+## Esetial
+
+This software must be extreamly well known by UI Designers of any level.
+
 - Sketch
+- Zeplin
+- Marvel
+
+## Good to know
+
 - Figma
-- Adobe XD
 - InVision Studio
+- Adobe XD
 - Adobe Photoshop
 - Adobe Illustrator
-- Framer
-- Principle
+
+## Optional
+
 - Flinto
-- Marvel
-- Zeplin
+- Principle
+- Framer
 - Craft
 - Axure
 - Abstract
